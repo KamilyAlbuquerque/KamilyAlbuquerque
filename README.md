@@ -1,7 +1,7 @@
 ### Oiii! Eu sou a Kamily Albuquerque 👋
 
 - 🔭 Hoje trabalho com UL e UX
-- 🌱 Estudando CSS e Java 
+- 🌱 Estudando JavaScript e ReactJS 
 - 😄 Pronouns: ela/dela
 
 <div scr="center">
